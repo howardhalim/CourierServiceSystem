@@ -1,0 +1,6 @@
+FROM: halimhoward@gmail.com
+TO: wilbenwibu@gmail.com
+SUBJECT: DELIVERY STATUS
+Order 08 has successfully been delivered to Marco
+We Would Highly Appreciate by Filling The Rating and Feedback Form for Further Improvement!
+Thank You for Trusting Our Services

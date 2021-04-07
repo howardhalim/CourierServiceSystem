@@ -1,0 +1,6 @@
+FROM: kevjepe@gmail.com
+TO: renaldy@gmail.com
+SUBJECT: DELIVERY STATUS
+Order 012 has successfully been delivered to Howard
+We Would Highly Appreciate by Filling The Rating and Feedback Form for Further Improvement!
+Thank You for Trusting Our Services

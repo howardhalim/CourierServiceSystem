@@ -1,0 +1,6 @@
+Order ID : 14
+Customer Name : wilben
+Reciever Name : Renaldy
+Delivery Address : pekanbaru
+Delivery Staff Name: kevinjericho
+Payment : DONE

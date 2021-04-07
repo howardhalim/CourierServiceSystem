@@ -1,0 +1,6 @@
+Order ID : 10
+Customer Name : marco
+Reciever Name : Howard
+Delivery Address : Parkhill
+Delivery Staff Name: wangcibs
+Payment : DONE

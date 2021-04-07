@@ -1,0 +1,6 @@
+FROM: 01128117215
+TO: hubert@gmail.com
+SUBJECT: DELIVERY STATUS
+Order 015 has successfully been delivered to harwin
+We Would Highly Appreciate by Filling The Rating and Feedback Form for Further Improvement!
+Thank You for Trusting Our Services

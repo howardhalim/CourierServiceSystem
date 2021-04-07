@@ -1,0 +1,6 @@
+Order ID : 2
+Customer Name : wilben
+Reciever Name : KJP
+Delivery Address : PKU
+Delivery Staff Name: demarco
+Payment : UNPAID

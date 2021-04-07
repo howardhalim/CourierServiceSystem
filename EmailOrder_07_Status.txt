@@ -1,0 +1,6 @@
+FROM: 
+TO: marco@gmail.com
+SUBJECT: DELIVERY STATUS
+Order 07 has successfully been delivered to KevinJericho
+We Would Highly Appreciate by Filling The Rating and Feedback Form for Further Improvement!
+Thank You for Trusting Our Services

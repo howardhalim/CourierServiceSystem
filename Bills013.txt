@@ -1,0 +1,6 @@
+Order ID : 13
+Customer Name : renaldy
+Reciever Name : KJP
+Delivery Address : Pekanbaru
+Delivery Staff Name: howard
+Payment : DONE

@@ -1,0 +1,6 @@
+Order ID : 7
+Customer Name : marco
+Reciever Name : KevinJericho
+Delivery Address : Pekanbaru
+Delivery Staff Name: kevinjericho
+Payment : DONE

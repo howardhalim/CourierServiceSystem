@@ -1,0 +1,6 @@
+FROM: halimhoward@gmail.com
+TO: renaldy@gmail.com
+SUBJECT: DELIVERY STATUS
+Order 013 has successfully been delivered to KJP
+We Would Highly Appreciate by Filling The Rating and Feedback Form for Further Improvement!
+Thank You for Trusting Our Services

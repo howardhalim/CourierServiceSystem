@@ -1,0 +1,6 @@
+Order ID : 9
+Customer Name : renaldy
+Reciever Name : Marco
+Delivery Address : Malaysia
+Delivery Staff Name: kevinjericho
+Payment : DONE

@@ -1,0 +1,6 @@
+Order ID : 12
+Customer Name : renaldy
+Reciever Name : Howard
+Delivery Address : Parkhill Residence
+Delivery Staff Name: kevinjericho
+Payment : DONE

@@ -1,0 +1,6 @@
+Order ID : 5
+Customer Name : renaldy
+Reciever Name : KJP
+Delivery Address : PKU
+Delivery Staff Name: kevinjericho
+Payment : DONE

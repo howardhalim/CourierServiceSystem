@@ -1,0 +1,6 @@
+Order ID : 3
+Customer Name : marco
+Reciever Name : AGAT
+Delivery Address : PRATAMA
+Delivery Staff Name: kevinjericho
+Payment : DONE

@@ -1,0 +1,6 @@
+Order ID : 6
+Customer Name : renaldy
+Reciever Name : 11
+Delivery Address : 11
+Delivery Staff Name: kevinjericho
+Payment : DONE
